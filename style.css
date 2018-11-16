@@ -1,0 +1,23 @@
+.display-1 {
+	font-size: 48pt;
+}
+.page-header{
+	text-align: center;
+	color: #CC5178;
+    padding-top: 0px;
+	margin-top: 0px;
+	background-color: #4A2D3E;
+	position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+	border-bottom: 0px;
+	z-index:10;
+}
+.content-container{
+	margin-top: 96px;
+	z-index:1;
+}    
+.card{
+    margin: 12px;
+}
