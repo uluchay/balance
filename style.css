@@ -1,6 +1,9 @@
 .display-1 {
 	font-size: 48pt;
 }
+.display-4 {
+	font-size: 14pt;
+}
 .page-header{
 	text-align: center;
 	color: #CC5178;
@@ -15,9 +18,16 @@
 	z-index:10;
 }
 .content-container{
-	margin-top: 96px;
+	margin-top: 96px;	
+	margin-left: 12px;
+	margin-right: 12px;
 	z-index:1;
 }    
 .card{
-    margin: 12px;
+    
 }
+.home-out{}
+.home-in {}
+.create-account{}
+.insert-expense{}
+.account-history{}
